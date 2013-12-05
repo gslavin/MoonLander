@@ -27,3 +27,6 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+#desktop assets are mirror of Andriod
+MoonLander-desktop/assets/
